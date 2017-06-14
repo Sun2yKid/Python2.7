@@ -1,2 +1,2 @@
 # Python2.7
-liaoxuefeng.com tutorial
+liaoxuefeng.com python 2.7 tutorial
